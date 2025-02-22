@@ -26143,6 +26143,12 @@
     githubId = 2189609;
     name = "Zhaofeng Li";
   };
+  zhesnaile = {
+    email = "63933464+zhesnaile@users.noreply.github.com";
+    github = " zhesnaile";
+    githubId = 63933464;
+    name = "zhesnaile";
+  };
   zi3m5f = {
     name = "zi3m5f";
     email = "k7n3o3a6f@mozmail.com";
